@@ -1,4 +1,6 @@
 /* FOR THE CONTACT US, GALLERY AT THE TOP, AND THE LOGO  */
+@import url('/CSS/font.css');
+
 @import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
 body {
     font-family: "SimSun", 'Oswald', sans-serif;
@@ -6,7 +8,7 @@ body {
     background-color: white;
     background: url(../Images/mainBack.png);
     background-size: cover;
- 
+
 }
 
 
